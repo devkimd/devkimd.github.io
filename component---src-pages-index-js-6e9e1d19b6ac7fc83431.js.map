@@ -1,1 +1,15 @@
-{"version":3,"file":"component---src-pages-index-js-6e9e1d19b6ac7fc83431.js","mappings":"sLAEe,SAASA,IACtB,OAAO,0BAAI,eACb,C","sources":["webpack://devkimd.github.io/./src/pages/index.js"],"sourcesContent":["import * as React from 'react'\r\n\r\nexport default function HelloWorld() {\r\n  return <h1>Hello World!</h1>\r\n}"],"names":["HelloWorld"],"sourceRoot":""}
+{
+    "version": 3,
+    "file": "component---src-pages-index-js-6e9e1d19b6ac7fc83431.js",
+    "mappings": "sLAEe,SAASA,IACtB,OAAO,0BAAI,eACb,C",
+    "sources": [
+        "webpack://devkimd.github.io/./src/pages/index.js"
+    ],
+    "sourcesContent": [
+        "import * as React from 'react'\r\n\r\nexport default function HelloWorld() {\r\n  return <h1>Hello World!</h1>\r\n}"
+    ],
+    "names": [
+        "HelloWorld"
+    ],
+    "sourceRoot": ""
+}

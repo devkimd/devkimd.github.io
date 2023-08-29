@@ -1,0 +1,26 @@
+{
+  "name": "devkimd.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "devkimd.github.io",
+  "author": "KimDongyoung",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.12.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
